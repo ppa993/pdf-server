@@ -1,8 +1,6 @@
 var express = require('express');
 var path = require('path');
-var http = require('http');
 var bodyParser = require('body-parser');
-var port = process.env.PORT || 1337;
 
 
 var ps = require('./routes/product-summary');
