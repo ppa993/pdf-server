@@ -11,6 +11,6 @@ npm install
 node index
 ```
 
-Navigate to `localhost:3000/api/base64`
+Navigate to `localhost:3000/api/<planCode>`
 
 

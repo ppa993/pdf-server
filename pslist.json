@@ -1,0 +1,231 @@
+{
+    "productSummaries": [
+        {
+        "plancodes":["SLC05","SLC06","SLC07","SLC08","SLC09","SLC10",
+                    "SLC11","SLC12","SLC13","SLC14","SLC15","SLC16",
+                    "SLC17","SLC18","SLC19","SLC20","SLC21","SLC22",
+                    "SLC23","SLC24","SLC25","SLC26","SLC27","SLC28",
+                    "SLC29","SLC30","SLC31","SLC32","SLC33","SLC34",
+                    "SLC35","SLC36","SLC37","SLC38","SLC39","SLC40"],
+        "fileName": "ManuProtect Term - PdtSum v1.1 (clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["FR005", "FR010", "FR015", "FR020"],
+            "fileName": "RetireReady Plus (RP) PS v2.3.pdf"
+        },
+        {
+            "plancodes": ["FRCSH", "FRSRS"],
+            "fileName": "RetireReady Plus (SP) PS v2.31.pdf"
+        },
+        {
+            "plancodes": ["WCS09", "WCS10", "WCS11", "WCS12"],
+            "fileName": "Manulife ReadyIncome PS v2.2.pdf"
+        },
+        {
+            "plancodes": ["WCS13", "WCS14", "WCS15"],
+            "fileName": "Ready LifeIncome PS v3.1.pdf"
+        },
+        {
+            "plancodes": ["TRC05", "TRC06", "TRC07", "TRC08", "TRC09", "TRC10"],
+            "fileName": "ManuProtect Term - PdtSum v1.1 (clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["TLC11", "TLC12", "TLC13", "TLC14", "TLC15", "TLC16", "TLC17", "TLC18", "TLC19", "TLC20", "TLC21", "TLC22", "TLC23", "TLC24", "TLC25", "TLC26", "TLC27", "TLC28", "TLC29", "TLC30", "TLC31", "TLC32", "TLC33", "TLC34", "TLC35", "TLC36", "TLC37", "TLC38", "TLC39", "TLC40"],
+            "fileName": "ManuProtect Term - PdtSum v1.1 (clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["EMB15", "EMB20", "EMB25", "EMB30"],
+            "fileName": "ManuProtect MoneyBack - PdtSum - v7.3 (clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["EDTS1", "EDTJ1", "EDTS2", "EDTJ2"],
+            "fileName": "ManuProtect Decreasing & Lite - PdtSum Clean v1.4 20181002.pdf"
+        },
+        {
+            "plancodes": ["ELB05", "ELB10", "ELB15", "ELB20"],
+            "fileName": "ReadyBuilder (RP) PS v2.3.pdf"
+        },
+        {
+            "plancodes": ["ELB01", "ELB02"],
+            "fileName": "ReadyBuilder (SP) PS v2.3.pdf"
+        },
+        {
+            "plancodes": ["SRIS1"],
+            "fileName": "Signature  Income - SGD (Monthly) PS v1.5.pdf"
+        },
+        {
+            "plancodes": ["SRIS2"],
+            "fileName": "Signature  Income - SGD (Yearly) PS v1.51.pdf"
+        },
+        {
+            "plancodes": ["SRIU1"],
+            "fileName": "Signature  Income - USD (Monthly) PS v1.6.pdf"
+        },
+        {
+            "plancodes": ["SRIU2"],
+            "fileName": "Signature  Income - USD (Yearly) PS v1.61.pdf"
+        },
+        {
+            "plancodes": ["WSPS1"],
+            "fileName": "Signature Life - SGD PS v1.5.pdf"
+        },
+        {
+            "plancodes": ["WSPU1"],
+            "fileName": "Signature Life - USD PS v1.6.pdf"
+        },
+        {
+            "plancodes": ["WLN10", "WLN15", "WLN20", "WLN25", "WLN99"],
+            "fileName": "LifeReady PS_v2.2.pdf"
+        },
+        {
+            "plancodes": ["WLF10", "WLF15", "WLF20", "WLF25", "WLF99"],
+            "fileName": "LifeReady Plus PS_v1.8 (Clean).pdf"
+        },
+        {
+            "plancodes": ["SCC035", "SCC85", "SCC1"],
+            "fileName": "Critical SelectCare - Product Summary_14062019.pdf"
+        },
+        {
+            "plancodes": ["EP10A", "EP10B", "EP10C", "EP15A", "EP15B", "EP20A"],
+            "fileName": "ReadyPayout Plus PS v2.4.pdf"
+        },
+        {
+            "plancodes": ["EFS02"],
+            "fileName": "ManuFlexi Growth PS v2.4.pdf"
+        },
+        {
+            "plancodes": ["HRT08"],
+            "fileName": "Heirloom (VI)_Product Summary v1.5_clean.pdf"
+        },
+        {
+            "plancodes": ["IUL01"],
+            "fileName": "Signature Indexed UL_Product Summary v10042019_clean.pdf"
+        },
+        {
+            "plancodes": ["EEP18","EEP20"],
+            "fileName": "ManuEdu First PS v2.3.pdf"
+        },
+        {
+            "plancodes": ["RMD03", "RMD05", "RMD10"],
+            "fileName": "Product Summary_Manulife SmartWealth (II)_v4.5.1 (Clean).pdf"
+        },
+        {
+            "plancodes": ["RPB05", "RPB10", "RPB15", "RPB20"],
+            "fileName": "Product Summary_Manulife_SmartRetire_v1.18.1(Clean).pdf"
+        },
+        {
+            "plancodes": ["LLC11","LLC12","LLC13","LLC14","LLC15","LLC16",
+                        "LLC17","LLC18","LLC19","LLC20","LLC21","LLC22",
+                        "LLC23","LLC24","LLC25","LLC26","LLC27","LLC28",
+                        "LLC29","LLC30","LLC31","LLC32","LLC33","LLC34",
+                        "LLC35","LLC36","LLC37","LLC38","LLC39","LLC40",
+                        "LRC05","LRC06","LRC07","LRC08","LRC09","LRC10"],
+            "fileName": "MPT Lite - PdtSum v1.1 (clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["CF101", "CF102", "CF103", "CF104", "CF105",
+                        "CF151", "CF152", "CF153", "CF154", "CF155",
+                        "CF201", "CF202", "CF203", "CF204", "CF205",
+                        "CF251", "CF252", "CF253", "CF254", "CF255",
+                        "CF991", "CF992", "CF993", "CF994", "CF995"],
+            "fileName": "ECCR (II) PS_v1.8.pdf"
+        },
+        {
+            "plancodes": ["CG101", "CG102", "CG103", "CG104", "CG105", "CG151", "CG152", "CG153", "CG154", "CG155", "CG201",
+                "CG202", "CG203", "CG204", "CG205", "CG251", "CG252", "CG253", "CG254", "CG255", "CG991", "CG992", "CG993",
+                "CG994", "CG995"],
+            "fileName": "CCR (II) PS_v1.7.pdf"
+        },
+        {
+            "plancodes": ["CI101", "CI151", "CI201", "CI251", "CI991",
+                        "CI102", "CI152", "CI202", "CI252", "CI992",
+                        "CI103", "CI153", "CI203", "CI253", "CI993",
+                        "CI104", "CI154", "CI204", "CI254", "CI994",
+                        "CI105", "CI155", "CI205", "CI255", "CI995"],
+            "fileName": "Critical Care - PdtSum V1.7_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["CE101", "CE151", "CE201", "CE251", "CE991",
+                        "CE102", "CE152", "CE202", "CE252", "CE992",
+                        "CE103", "CE153", "CE203", "CE253", "CE993",
+                        "CE104", "CE154", "CE204", "CE254", "CE994",
+                        "CE105", "CE155", "CE205", "CE255", "CE995"],
+            "fileName": "Early Critical Care - PdtSum V2.9_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["CPW03", "CPW01", "CPW04"],
+            "fileName": "Cancer Care Premium Waiver Rider - PdtSum v5.3_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["CCP05", "CCP06", "CCP07", "CCP08", "CCP09", "CCP10",
+                        "CCP11", "CCP12", "CCP13", "CCP14", "CCP15",
+                        "CCP16", "CCP17", "CCP18", "CCP19", "CCP20",
+                        "CCP21", "CCP22", "CCP23", "CCP24", "CCP25",
+                        "CCP26", "CCP27", "CCP28", "CCP29", "CCP30",
+                        "CCP31", "CCP32", "CCP33", "CCP34", "CCP35",
+                        "CCP36", "CCP37", "CCP38", "CCP39", "CCP40"],
+            "fileName": "Critical Care Enhancer Rider MPT - PdtSum v1.1(clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["CCL05","CCL06","CCL07","CCL08","CCL09","CCL10",
+                        "CCL11","CCL12","CCL13","CCL14","CCL15","CCL16",
+                        "CCL17","CCL18","CCL19","CCL20","CCL21","CCL22",
+                        "CCL23","CCL24","CCL25","CCL26","CCL27","CCL28",
+                        "CCL29","CCL30","CCL31","CCL32","CCL33","CCL34",
+                        "CCL35","CCL36","CCL37","CCL38","CCL39","CCL40"],
+            "fileName": "Critical Care Enhancer Rider MPT Lite_PdtSum v1.1.1 (clean)_20190123.pdf"
+        },
+        {
+            "plancodes": ["CIWS1", "CIWJ1"],
+            "fileName": "CCE Rider MPD - PdtSum Clean v1.2 20181002.pdf"
+        },
+        {
+            "plancodes": ["EDB01"],
+            "fileName": "Enhanced Death Benefit Rider_PdtSum v1.7_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["TBR03", "TBR02", "TBR04"],
+            "fileName": "Level Term Rider - PdtSum v4.3_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["CICS1", "CICJ1", "CICS2", "CICJ2"],
+            "fileName": "Loan Protector - Critical Cover - PdtSum v1.6_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["CIRS1", "CIRJ1", "CIRS2", "CIRJ2"],
+            "fileName": "Loan Protector - Employment Cover - PdtSum v1.5 Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["LOI02", "LOI03"],
+            "fileName": "Loss of Independence Rider_Product Summary v1.7_Clean_20180924.pdf"
+        },
+        {
+            "plancodes": ["PBO01"],
+            "fileName": "Payor Benefit Rider (I) - PdtSum v1.6 (cleaned)_20181002.pdf"
+        },
+        {
+            "plancodes": ["PCO01"],
+            "fileName": "Payor Benefit Plus Rider (I) - PdtSum v1.8_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["PB004", "PB002", "WPT05", "PB005"],
+            "fileName": "Payor Premium Waiver Rider - PdtSum v5.4_Clean_20181002.pdf"
+        },
+        {
+            "plancodes": ["PAL01"],
+            "fileName": "PersonalAccidentBenefit_Rider-ProductSummary-v1.1-17May2016.pdf"
+        },
+        {
+            "plancodes": ["TDR05", "TDR06", "TDR07", "TDR08", "TDR09", "TDR10", "TPPL1", "TTLP3", "TTLP4"],
+            "fileName": "TPD Plus Rider MPT - PdtSum v1.1(clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["TTLP5", "TDL05", "TDL06", "TDL07", "TDL08", "TDL09", "TDL10"],
+            "fileName": "TPD Plus Rider MPT Lite_PdtSum v1.1(clean)_20181002.pdf"
+        },
+        {
+            "plancodes": ["TPDS1", "TPDJ1", "TPDS2", "TPDJ2"],
+            "fileName": "TPD Rider MPD - PdtSum Clean v1.3 20181002.pdf"
+        }
+    ]
+}
