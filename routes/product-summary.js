@@ -17,6 +17,21 @@ router.get('/:planCode', function (req, res) {
   })
 });
 
+/*
+ * localhost:3000/api/getpdf
+ */
+router.post('/getpdf', function (req, res) {
+  const psList = getJsonConfig();
+  var fileName = getFilePathFromPlancode(psList, req.body.planCode);
+  if (!fileName) res.sendStatus(404);
+  var encodedFile = base64_encode(fileName);
+  if (!encodedFile) res.sendStatus(500);
+
+  res.json({
+    pdf: encodedFile
+  })
+});
+
 
 
 //=====================================================//
@@ -25,16 +40,15 @@ router.get('/:planCode', function (req, res) {
 
 function getFilePathFromPlancode(psList, code) {
   let fileName = '';
-  let uCode = code.toUpperCase();
   const productSummaries = psList.productSummaries;
   productSummaries.some(function (item) {
     const {
       plancodes
     } = item;
-    if (plancodes.includes(uCode)) {
+    if (plancodes.includes(code)) {
       fileName = item.fileName;
     }
-    return plancodes.includes(uCode);
+    return plancodes.includes(code);
   });
   if (fileName) {
     return path.join(__dirname, '../public/' + fileName);
@@ -48,8 +62,14 @@ function getJsonConfig() {
 }
 
 function base64_encode(file) {
-  var bitmap = fs.readFileSync(file);
-  return new Buffer(bitmap).toString('base64');
+  try {
+    var bitmap = fs.readFileSync(file);
+    return new Buffer(bitmap).toString('base64');
+  }
+  catch (err) {
+    console.log(err);
+    return undefined;
+  }
 }
 
 module.exports = router;
